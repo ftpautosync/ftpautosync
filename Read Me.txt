@@ -8,7 +8,7 @@
 
 5. DO NOT DELETE THE DOWNLOADS FOLDER INSIDE THE CONFIGUREANDPLAY\RELEASE FOLDER. DO NOT CUT THE FILES FROM THE DOWNLOADS FOLDER INSTEAD COPY THOSE.
 
-6. The verbose output response can be delayed due to 
+6. If you want to see the background process tick the Verbose checkbox. The verbose output response can be delayed due to 
 	a. Already running download
 	b. Interval time
 
@@ -19,4 +19,10 @@
 9. If your FTP server does not allow ANONYMOUS access, then contact the server administrator and collect the username and password.
 
 10. DONOT RENAME ANY FOLDER NAME. IF YOU HAVE TO RENAME, PERFORM THE RENAMING. GO TO THE TASK SCHEDULER (RIGHT CLICK
-MY COMUPTER AND CLICK MANAGE). DELETE THE TASK NAMED "FTPAutoSync". RUN THE CONFIGURATION FILE FROM CONFIGUREANDPLAY\DEBUG\FTPAutoSyncConfigure.                                    						       
+MY COMUPTER AND CLICK MANAGE). DELETE THE TASK NAMED "FTPAutoSync". RUN THE CONFIGURATION FILE FROM CONFIGUREANDPLAY\DEBUG\FTPAutoSyncConfigure.                                    			
+
+12. As this program doesn't have any certification yet, Windows Smart Screen will block this program. Please unblock all the .exe and .bat files by going to these files' properties.
+
+13. Please allow all the .exe files through the firewall.
+
+14. Please report bugs and send feedback to ftpautosync@outlook.com
