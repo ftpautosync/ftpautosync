@@ -1,0 +1,5 @@
+ftp address
+verbose output
+interval
+username
+password
